@@ -7,3 +7,7 @@
     "tsc": "tsc",
     "lint": "ts-standar",
 ```
+
+```
+    localhost:3000/api/v1/diaries
+```
